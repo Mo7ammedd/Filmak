@@ -23,7 +23,7 @@
 
 ### Demo Screeshots
 
-![Filmlane Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Filmlane Desktop Demo](https://github.com/codewithsadee/filmlane/blob/master/readme-images/desktop.png?raw=true")
 
 ### Prerequisites
 
