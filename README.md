@@ -1,39 +1,56 @@
-# Filmak
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Mo7ammedd/Filmak)
+![GitHub stars](https://img.shields.io/github/stars/Mo7ammedd/Filmak?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Mo7ammedd/Filmak?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Mo7ammedd_?style=social)](https://twitter.com/mohameddtv)
 
-![Filmak Logo](https://github.com/Mo7ammedd/Filmak/blob/main/assets/images/readmepic.png?raw=true)
 
-Filmak is a powerful and user-friendly movie recommendation system that helps you discover and explore movies based on your preferences. Whether you're a film enthusiast or just looking for something new to watch, Filmak has got you covered!
+  <br />
+  <br />
+  
+  <img src="https://github.com/Mo7ammedd/Filmak/blob/main/assets/images/readmepic.png?raw=true" />
 
-## Table of Contents
+  <h2 align="center">Filmlane - Movie website</h2>
 
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](https://github.com/Mo7ammedd/Filmak/blob/main/LICENSE)
+  Filmlane is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-## Features
+  <a href="https://mo7ammedd.github.io/Filmak/"><strong>➥ Live Demo</strong></a>
 
-- **Personalized Recommendations:** Filmak utilizes advanced algorithms to analyze your movie preferences and provides personalized recommendations tailored just for you.
+</div>
 
-- **User-Friendly Interface:** The sleek and intuitive user interface makes it easy to navigate, discover new movies, and manage your watchlist.
+<br />
 
-- **Search and Explore:** Quickly find movies by title, genre, or actor. Explore trending movies and discover hidden gems in the vast world of cinema.
+### Demo Screeshots
 
-- **Watchlist Management:** Keep track of movies you want to watch and mark them as watched. Filmak helps you organize your movie journey effortlessly.
-
-- **Community Ratings:** View community ratings and reviews for each movie. Contribute your own ratings and share your thoughts with other Filmak users.
-
-## Getting Started
+![Filmlane Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
-- Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
+Before you begin, ensure you have met the following requirements:
 
-### Installation
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-1. Clone the repository:
+### Run Locally
 
-   ```bash
-   git clone https://github.com/Mo7ammedd/Filmak.git
-   
+To run **Filmlane** locally, run this command on your git bash:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/filmlane.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/filmlane.git
+```
+
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+### License
+
+This project is **free to use** and does not contains any license.
