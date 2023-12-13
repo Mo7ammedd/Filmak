@@ -13,7 +13,7 @@
 
   <h2 align="center">Fikmak - Movie website</h2>
 
-  Filmlane is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Filmak is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://mo7ammedd.github.io/Filmak/"><strong>➥ Live Demo</strong></a>
 
