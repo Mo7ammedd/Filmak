@@ -11,7 +11,7 @@
   
   <img src="https://github.com/Mo7ammedd/Filmak/blob/main/assets/images/readmepic.png?raw=true" />
 
-  <h2 align="center">Filmlane - Movie website</h2>
+  <h2 align="center">Fikmak - Movie website</h2>
 
   Filmlane is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
