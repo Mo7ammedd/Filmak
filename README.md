@@ -1,6 +1,6 @@
 # Filmak
 
-![Filmak Logo](https://github.com/Mo7ammedd/Filmak/blob/main/assets/images/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202023-12-06%20093728.png?raw=true)
+![Filmak Logo]([https://github.com/Mo7ammedd/Filmak/blob/main/assets/images/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202023-12-06%20093728.png?raw=true](https://github.com/Mo7ammedd/Filmak/blob/main/assets/images/readmepic.png?raw=true))
 
 Filmak is a powerful and user-friendly movie recommendation system that helps you discover and explore movies based on your preferences. Whether you're a film enthusiast or just looking for something new to watch, Filmak has got you covered!
 
