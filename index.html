@@ -46,12 +46,12 @@
         <button class="search-btn">
           <ion-icon name="search-outline"></ion-icon>
         </button>
-
+      
         <div class="lang-wrapper">
           <label for="language">
             <ion-icon name="globe-outline"></ion-icon>
           </label>
-
+      
           <select name="language" id="language">
             <option value="en">EN</option>
             <option value="au">AU</option>
@@ -59,11 +59,11 @@
             <option value="tu">TU</option>
           </select>
         </div>
-
-        <button class="btn btn-primary">Sign in</button>
-
+      
+        <button class="btn btn-primary" onclick="redirectToSignIn()">Sign in</button>
+      
       </div>
-
+      
       <button class="menu-open-btn" data-menu-open-btn>
         <ion-icon name="reorder-two"></ion-icon>
       </button>
@@ -89,19 +89,19 @@
           </li>
 
           <li>
-            <a href="#" class="navbar-link">Movie</a>
+            <a href="#upcoming" class="navbar-link">Movie</a>
           </li>
 
           <li>
-            <a href="#" class="navbar-link">Tv Show</a>
+            <a href="#top" class="navbar-link">Top Rated</a>
           </li>
 
           <li>
-            <a href="#" class="navbar-link">Web Series</a>
+            <a href="#series" class="navbar-link">Web Series</a>
           </li>
 
           <li>
-            <a href="#" class="navbar-link">Pricing</a>
+            <a href="#price" class="navbar-link">Pricing</a>
           </li>
 
         </ul>
@@ -219,7 +219,7 @@
         - #UPCOMING
       -->
 
-      <section class="upcoming">
+      <section class="upcoming"id="upcoming">
         <div class="container">
 
           <div class="flex-wrapper">
@@ -289,7 +289,7 @@
             <li>
               <div class="movie-card">
 
-                <a href="./movie-details.html">
+                <a href="./drstring.html">
                   <figure class="card-banner">
                     <img src="./assets/images/upcoming-2.png"
                       alt="Doctor Strange in the Multiverse of Madness movie poster">
@@ -326,14 +326,14 @@
             <li>
               <div class="movie-card">
 
-                <a href="./drstring.html">
+                <a href="./memory.html">
                   <figure class="card-banner">
                     <img src="./assets/images/upcoming-3.png" alt="Memory movie poster">
                   </figure>
                 </a>
 
                 <div class="title-wrapper">
-                  <a href="./movie-details.html">
+                  <a href="./memory.html">
                     <h3 class="card-title">Memory</h3>
                   </a>
 
@@ -362,7 +362,7 @@
             <li>
               <div class="movie-card">
 
-                <a href="./movie-details.html">
+                <a href="./The Unbearable.html">
                   <figure class="card-banner">
                     <img src="./assets/images/upcoming-4.png"
                       alt="The Unbearable Weight of Massive Talent movie poster">
@@ -370,7 +370,7 @@
                 </a>
 
                 <div class="title-wrapper">
-                  <a href="./movie-details.html">
+                  <a href="./The Unbearable.html">
                     <h3 class="card-title">The Unbearable Weight of Massive Talent</h3>
                   </a>
 
@@ -484,7 +484,7 @@
         - #TOP RATED
       -->
 
-      <section class="top-rated">
+      <section class="top-rated"id="top">
         <div class="container">
 
           <p class="section-subtitle">Online Streaming</p>
@@ -814,7 +814,7 @@
         - #TV SERIES
       -->
 
-      <section class="tv-series">
+      <section class="tv-series"id="series">
         <div class="container">
 
           <p class="section-subtitle">Best TV Series</p>
@@ -980,7 +980,7 @@
         - #CTA
       -->
 
-      <section class="cta">
+      <section class="cta"id="price">
         <div class="container">
 
           <div class="title-wrapper">
@@ -1109,7 +1109,7 @@
       <div class="container">
 
         <p class="copyright">
-          &copy; 2023 <a href="#">Web Project</a>. All Rights Reserved
+          &copy; 2023 <a href="#">Mohammed Mostafa</a>. All Rights Reserved
         </p>
 
         <img src="./assets/images/footer-bottom-img.png" alt="Online banking companies logo" class="footer-bottom-img">
