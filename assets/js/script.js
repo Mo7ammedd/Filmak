@@ -63,3 +63,8 @@ button.addEventListener ('click', function(e) {
         window.sessionStorage.setItem('email', input.value);
     }
   });
+
+  function redirectToSignIn() {
+    // Redirect to sign.html when the "Sign in" button is clicked
+    window.location.href = "./sign.html";
+  }
